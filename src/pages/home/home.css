@@ -1,0 +1,40 @@
+.counts-box{
+    box-shadow: -10px -5px 40px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+.viser img{
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+.vise{
+    padding: 10px;
+}
+
+.viset{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.5rem 0;
+}
+
+.viset svg{
+    margin-right: 6px;
+}
+
+.testimonia{
+    width: 70px;
+    object-fit: cover;
+    height: 70px;
+}
+
+.react-multi-carousel-track li{
+    flex: 1 1 auto;
+    position: relative;
+    width: 200px!important;
+}
+
+.animate__fadeInUpe{
+    color: #78B5D6!important;
+}
